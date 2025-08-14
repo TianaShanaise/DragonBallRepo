@@ -1,4 +1,4 @@
-#h1 {
+#h2 {
     color: blue;
     text-align: center;
     font-size: 75px;
@@ -6,7 +6,7 @@
 }
 
 .body {
-    background-color: beige;
+    background-color: rgb(243, 243, 237);
     
 }
 
@@ -21,12 +21,37 @@
 }
 
 .image {
-    width:100%; height:500px;
+    width:90%; height:550px;
 }
 
 .listItem {
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: rgb(243, 243, 237);
+}
+
+.flex-container img {
+    width: 300px;
+    height: 300px;
+}
+
+#h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 50px;
+}
+
+.ol {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 

@@ -53,5 +53,16 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.top-bar {
+    position: fixed;
+    color: white;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgb(10, 0, 0, 0.8);
+    padding-left: 30px;
+    
+}
+
 
 
